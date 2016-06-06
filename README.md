@@ -1,3 +1,5 @@
+This project is belong to  https://github.com/shendykurnia, i just adding some feature like start, stop, pause, resume, and scoring 
+
 Typer Problem   
     
 Kita mencari developer yang mandiri, ketika ada masalah, aktif mencari solusi dengan sendirinya dan mudah mengerti instruksi tanpa terlalu banyak menanyakan untuk memahami instruksi.     
